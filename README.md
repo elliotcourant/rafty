@@ -1,2 +1,3 @@
 # rafty
-A pure go implementation of the raft protocol.
+My personal raft implementation based on hasicorps raft package.
+But with gRPC native transportation.
